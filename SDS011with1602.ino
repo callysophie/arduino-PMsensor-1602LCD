@@ -1,5 +1,5 @@
 // Arduino-based PM sensor station with Nova SDS011 PM sensor and I2C LCD 1602 display
-// Cally Penner
+// Cally Sophie
 // Contains code by nick1415: https://www.instructables.com/Simple-Air-Pollution-Monitor-Using-an-Arduino-Uno-/
 
 
